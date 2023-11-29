@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "719672853138",
+    "project_id": "syed-sohaib-ali-raza",
+    "storage_bucket": "syed-sohaib-ali-raza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719672853138:android:564920f724481e46d79c4b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxzBp0uA2hicDyfl0FYEX9aGqwyLspOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719672853138:android:54c57b5c81ea973dd79c4b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxzBp0uA2hicDyfl0FYEX9aGqwyLspOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719672853138:android:2e5e1376557feb83d79c4b",
+        "android_client_info": {
+          "package_name": "com.sohaib.todo_list_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxzBp0uA2hicDyfl0FYEX9aGqwyLspOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719672853138-ebu63adn2ud0rmog7nfjkivo14vhcfj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
